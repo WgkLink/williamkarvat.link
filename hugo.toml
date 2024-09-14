@@ -1,0 +1,13 @@
+baseURL = "https://williamkarvar.link"
+languageCode = "pt-br"
+theme = "anubis2"
+title = "William Gabriel Karvat"
+
+[author]
+name = "William Gabriel Karvat"
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = 'base16-snazzy' # Highlight.js style
