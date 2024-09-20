@@ -10,4 +10,10 @@ name = "William Gabriel Karvat"
 unsafe = true # Enable unsafe mode to have a better experience
 
 [markup.highlight]
-style = 'base16-snazzy' # Highlight.js style
+style = 'base16-snazzy' # Highlight.js style 
+
+
+[params]
+
+colorTheme = "dark"
+colorThemeSwitcher = true
